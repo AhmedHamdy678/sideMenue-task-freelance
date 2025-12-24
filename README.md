@@ -64,7 +64,7 @@ You need a modern web browser (Chrome, Firefox, Edge, Safari) to run this projec
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/smart-accessibility-tool.git
+    git clone https://ahmedhamdy678.github.io/sideMenue-task-freelance/
     ```
 
 2.  **Navigate to the project directory**
@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 **Ahmed Hamdy** - [syda90215@gmail.com]
-Project Link: [https://github.com/yourusername/smart-accessibility-tool](https://github.com/yourusername/smart-accessibility-tool)
+Project Link: [https://ahmedhamdy678.github.io/sideMenue-task-freelance/]
