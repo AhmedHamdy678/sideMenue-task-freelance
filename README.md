@@ -1,4 +1,5 @@
 # ♿ Smart Accessibility Tool
+🔗 **Live Demo:** https://ahmedhamdy678.github.io/sideMenue-task-freelance/
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/topics/html5)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/topics/css3)
@@ -110,5 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name** - [Your Email or Website]
+**Ahmed Hamdy** - [syda90215@gmail.com]
 Project Link: [https://github.com/yourusername/smart-accessibility-tool](https://github.com/yourusername/smart-accessibility-tool)
